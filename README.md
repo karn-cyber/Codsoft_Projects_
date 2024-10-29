@@ -8,68 +8,74 @@ Projects Overview
 
 A command-line application that allows users to take a quiz with a set of questions. The quiz provides options for each question, checks answers, and calculates the final score.
 
-	•	Features:
-	•	Multiple-choice questions
-	•	User-friendly interface in the terminal
-	•	Calculates and displays scores at the end
-	•	Technologies Used: Java
+•	Features:
+•	Multiple-choice questions
+•	User-friendly interface in the terminal
+•	Calculates and displays scores at the end
+•	Technologies Used: Java
 
 2. Number Guessing Game
 
 A simple game where the player guesses a randomly generated number within a specified range. The game provides hints on whether the guessed number is too high or too low and counts attempts to find the number.
 
-	•	Features:
-	•	Random number generation
-	•	Feedback for each guess (higher/lower)
-	•	Tracks the number of attempts
-	•	Technologies Used: Java
+•	Features:
+•	Random number generation
+•	Feedback for each guess (higher/lower)
+•	Tracks the number of attempts
+•	Technologies Used: Java
 
 3. Student Grade Calculator
 
 A program to calculate and display students’ grades based on their scores. The user can input scores for multiple subjects, and the program outputs the average score and corresponding grade.
 
-	•	Features:
-	•	Accepts multiple subject scores
-	•	Calculates the average and assigns a grade based on the average
-	•	Technologies Used: Java
+•	Features:
+•	Accepts multiple subject scores
+•	Calculates the average and assigns a grade based on the average
+•	Technologies Used: Java
 
-Project Setup and Usage
+Project Setup and Usage:
 
-	1.	Clone the Repository
+  1. clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/CODSOFT.git
+
+	git clone https://github.com/YOUR_USERNAME/CODSOFT.git
+
+
 
 Replace YOUR_USERNAME with your actual GitHub username.
 
-	2.	Navigate to the Project Directory
 
-cd CODSOFT
+  2.	Navigate to the Project Directory
+	
+ 	cd CODSOFT
 
 
-	3.	Running Each Project
+
+
+3.	Running Each Project
 Each project is self-contained in its own folder. To run a project:
 	•	Navigate to the project folder:
 
-cd ProjectFolderName
+		cd ProjectFolderName
 
 
 	•	Compile and run the Java program:
 
-javac ProjectName.java
-java ProjectName
+		javac ProjectName.java
+		java ProjectName
 
 
 
 Repository Structure
 
-CODSOFT/
-├── QuizApplication/
-│   ├── QuizApplication.java
-├── NumberGuessingGame/
-│   ├── NumberGuessingGame.java
-├── StudentGradeCalculator/
-│   ├── StudentGradeCalculator.java
-└── README.md
+	CODSOFT/
+	├── QuizApplication/
+	│   ├── QuizApplication.java
+	├── NumberGuessingGame/
+	│   ├── NumberGuessingGame.java
+	├── StudentGradeCalculator/
+	│   ├── StudentGradeCalculator.java
+	└── README.md
 
 Contact
 
