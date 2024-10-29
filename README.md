@@ -1,6 +1,4 @@
-Here’s a sample README.md for your CodSoft internship projects:
-
-CodSoft Internship Projects
+CodSoft Projects
 
 Welcome to my CodSoft Internship projects repository! This repository includes the work I’ve completed as part of my internship as a Java Developer with CodSoft. Here, you’ll find detailed information about each project, along with instructions on how to set up and run them.
 
