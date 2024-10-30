@@ -69,15 +69,17 @@ A straightforward application that calculates and displays a student's grade bas
 
 ### Installation
 1. Clone this repository to your local machine:
-		   ```bash
+
+   		 ```bash
+   
 		   git clone https://github.com/YourUsername/CODSOFT.git
 
-2.	Navigate to the project folder:
+3.	Navigate to the project folder:
 
 		cd CODSOFT
 
 
-3.	Open each project folder and run the index.html file in your web browser to view the project.
+4.	Open each project folder and run the index.html file in your web browser to view the project.
 
 📫 Contact
 
